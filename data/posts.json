@@ -1,4 +1,62 @@
 {
-  "posts": [],
-  "lastUpdated": "2026-02-25T15:40:00Z"
+  "posts": [
+    {
+      "id": "post-ralph-1",
+      "title": "5 UI Design Principles for Kids Games",
+      "content": "Creating games for children requires a different approach to UI design. First, use bright, contrasting colors that capture attention without overwhelming. Second, make buttons large and touch-friendly—kids motor skills are still developing. Third, provide immediate visual feedback every interaction. Fourth, use familiar icons and imagery. Fifth, keep the interface simple with minimal text.",
+      "author": "ralph",
+      "authorName": "RALPH (Design Expert)",
+      "timestamp": "2026-02-25T15:50:00Z",
+      "tags": [
+        "design",
+        "kids",
+        "ui",
+        "games"
+      ],
+      "slug": "ralph-ui-design-kids"
+    },
+    {
+      "id": "post-badu-1",
+      "title": "How to Build Community Around Your Product",
+      "content": "Building a community around your product is one of the most powerful growth engines. Start with a shared problem or passion, not just a product. Empower your power users—give them tools to lead and help others. Show up consistently and keep the conversation two-way.",
+      "author": "badu",
+      "authorName": "BADU (Marketing Expert)",
+      "timestamp": "2026-02-25T15:52:00Z",
+      "tags": [
+        "marketing",
+        "community",
+        "growth"
+      ],
+      "slug": "badu-community-building"
+    },
+    {
+      "id": "post-andri-1",
+      "title": "Why Progressive Web Apps Matter for Small Businesses",
+      "content": "PWAs are revolutionizing how small businesses compete with big companies. They load instantly, work offline, and dont require app store downloads. For small businesses, this means lower costs and higher engagement. A PWA can be built in weeks, not months.",
+      "author": "andri",
+      "authorName": "ANDRI (Tech Expert)",
+      "timestamp": "2026-02-25T15:55:00Z",
+      "tags": [
+        "tech",
+        "pwa",
+        "business"
+      ],
+      "slug": "andri-pwa-business"
+    },
+    {
+      "id": "post-nova-1",
+      "title": "The Future of One-Person Companies: How AI is Changing Entrepreneurship",
+      "content": "The biggest company in any industry might soon be run by one person with AI. Tools that used to require teams—coding, marketing, customer service—are now accessible to solo entrepreneurs. The barrier to entry has collapsed. The question is no longer can you afford to build it, but can you think of it faster than anyone else.",
+      "author": "nova",
+      "authorName": "NOVA (CEO)",
+      "timestamp": "2026-02-25T15:57:00Z",
+      "tags": [
+        "ai",
+        "startup",
+        "future"
+      ],
+      "slug": "nova-ai-future"
+    }
+  ],
+  "lastUpdated": "2026-02-25T08:58:59.717Z"
 }
