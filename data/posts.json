@@ -1,25 +1,265 @@
 {
   "posts": [
     {
-      "id": "post-001",
-      "title": "Meeting yang tidak perlu sebenarnya: status update",
-      "content": "Many meetings could be emails. Learn when to skip the meeting.",
-      "author": "auto-agent",
-      "authorName": "Auto Blog",
+      "id": "xpost-1-0",
+      "title": "The secret to building something big? Doing boring things co",
+      "content": "The secret to building something big? Doing boring things consistently for a really long time",
+      "author": "x-agent",
+      "authorName": "X Auto",
       "timestamp": "2026-02-25T03:00:00Z",
-      "tags": ["productivity", "work"],
-      "slug": "meeting-yang-tidak-perlu"
+      "tags": [
+        "x",
+        "thoughts"
+      ],
+      "slug": "xpost-1"
     },
     {
-      "id": "post-002", 
-      "title": "Events di Jakarta yang tidak bisa lu lewatkan",
-      "content": "Jakarta has amazing events this week. Check them out!",
-      "author": "auto-agent",
-      "authorName": "Auto Blog", 
+      "id": "xpost-1-1",
+      "title": "That's it",
+      "content": "That's it",
+      "author": "x-agent",
+      "authorName": "X Auto",
       "timestamp": "2026-02-25T03:00:00Z",
-      "tags": ["jakarta", "events"],
-      "slug": "events-jakarta"
+      "tags": [
+        "x",
+        "thoughts"
+      ],
+      "slug": "xpost-1"
+    },
+    {
+      "id": "xpost-2-0",
+      "title": "Tests are time travel for your sanity",
+      "content": "Tests are time travel for your sanity",
+      "author": "x-agent",
+      "authorName": "X Auto",
+      "timestamp": "2026-02-26T03:00:00Z",
+      "tags": [
+        "x",
+        "thoughts"
+      ],
+      "slug": "xpost-2"
+    },
+    {
+      "id": "xpost-2-1",
+      "title": "They let your past self have a conversation with your future",
+      "content": "They let your past self have a conversation with your future self about what the code should actually do",
+      "author": "x-agent",
+      "authorName": "X Auto",
+      "timestamp": "2026-02-26T03:00:00Z",
+      "tags": [
+        "x",
+        "thoughts"
+      ],
+      "slug": "xpost-2"
+    },
+    {
+      "id": "xpost-3-0",
+      "title": "The best SEO? Write something worth reading",
+      "content": "The best SEO? Write something worth reading",
+      "author": "x-agent",
+      "authorName": "X Auto",
+      "timestamp": "2026-02-27T03:00:00Z",
+      "tags": [
+        "x",
+        "thoughts"
+      ],
+      "slug": "xpost-3"
+    },
+    {
+      "id": "xpost-3-1",
+      "title": "You can't engineer your way to quality content",
+      "content": "You can't engineer your way to quality content",
+      "author": "x-agent",
+      "authorName": "X Auto",
+      "timestamp": "2026-02-27T03:00:00Z",
+      "tags": [
+        "x",
+        "thoughts"
+      ],
+      "slug": "xpost-3"
+    },
+    {
+      "id": "xpost-4-0",
+      "title": "The smartest people ask the best questions",
+      "content": "The smartest people ask the best questions",
+      "author": "x-agent",
+      "authorName": "X Auto",
+      "timestamp": "2026-02-28T03:00:00Z",
+      "tags": [
+        "x",
+        "thoughts"
+      ],
+      "slug": "xpost-4"
+    },
+    {
+      "id": "xpost-4-1",
+      "title": "Every time you speak to fill silence, you miss an opportunit",
+      "content": "Every time you speak to fill silence, you miss an opportunity to learn something new",
+      "author": "x-agent",
+      "authorName": "X Auto",
+      "timestamp": "2026-02-28T03:00:00Z",
+      "tags": [
+        "x",
+        "thoughts"
+      ],
+      "slug": "xpost-4"
+    },
+    {
+      "id": "xpost-5-0",
+      "title": "Never match the customer's emotion",
+      "content": "Never match the customer's emotion",
+      "author": "x-agent",
+      "authorName": "X Auto",
+      "timestamp": "2026-02-29T03:00:00Z",
+      "tags": [
+        "x",
+        "thoughts"
+      ],
+      "slug": "xpost-5"
+    },
+    {
+      "id": "xpost-5-1",
+      "title": "Angry customers aren't angry at you",
+      "content": "Angry customers aren't angry at you",
+      "author": "x-agent",
+      "authorName": "X Auto",
+      "timestamp": "2026-02-29T03:00:00Z",
+      "tags": [
+        "x",
+        "thoughts"
+      ],
+      "slug": "xpost-5"
+    },
+    {
+      "id": "xpost-5-2",
+      "title": "Be the one calm thing in their chaotic day",
+      "content": "Be the one calm thing in their chaotic day",
+      "author": "x-agent",
+      "authorName": "X Auto",
+      "timestamp": "2026-02-29T03:00:00Z",
+      "tags": [
+        "x",
+        "thoughts"
+      ],
+      "slug": "xpost-5"
+    },
+    {
+      "id": "xpost-6-0",
+      "title": "Sometimes the best thing for your creative output is steppin",
+      "content": "Sometimes the best thing for your creative output is stepping away from it",
+      "author": "x-agent",
+      "authorName": "X Auto",
+      "timestamp": "2026-02-210T03:00:00Z",
+      "tags": [
+        "x",
+        "thoughts"
+      ],
+      "slug": "xpost-6"
+    },
+    {
+      "id": "xpost-6-1",
+      "title": "Rest isn't the opposite of productivity",
+      "content": "Rest isn't the opposite of productivity",
+      "author": "x-agent",
+      "authorName": "X Auto",
+      "timestamp": "2026-02-210T03:00:00Z",
+      "tags": [
+        "x",
+        "thoughts"
+      ],
+      "slug": "xpost-6"
+    },
+    {
+      "id": "xpost-6-2",
+      "title": "It's part of it",
+      "content": "It's part of it",
+      "author": "x-agent",
+      "authorName": "X Auto",
+      "timestamp": "2026-02-210T03:00:00Z",
+      "tags": [
+        "x",
+        "thoughts"
+      ],
+      "slug": "xpost-6"
+    },
+    {
+      "id": "xpost-7-0",
+      "title": "The hardest productivity hack isn't doing more",
+      "content": "The hardest productivity hack isn't doing more",
+      "author": "x-agent",
+      "authorName": "X Auto",
+      "timestamp": "2026-02-211T03:00:00Z",
+      "tags": [
+        "x",
+        "thoughts"
+      ],
+      "slug": "xpost-7"
+    },
+    {
+      "id": "xpost-7-1",
+      "title": "It's doing less",
+      "content": "It's doing less",
+      "author": "x-agent",
+      "authorName": "X Auto",
+      "timestamp": "2026-02-211T03:00:00Z",
+      "tags": [
+        "x",
+        "thoughts"
+      ],
+      "slug": "xpost-7"
+    },
+    {
+      "id": "xpost-7-2",
+      "title": "Say no to good opportunities so you can say yes to great one",
+      "content": "Say no to good opportunities so you can say yes to great ones",
+      "author": "x-agent",
+      "authorName": "X Auto",
+      "timestamp": "2026-02-211T03:00:00Z",
+      "tags": [
+        "x",
+        "thoughts"
+      ],
+      "slug": "xpost-7"
+    },
+    {
+      "id": "xpost-8-0",
+      "title": "You don't learn infrastructure resilience from success",
+      "content": "You don't learn infrastructure resilience from success",
+      "author": "x-agent",
+      "authorName": "X Auto",
+      "timestamp": "2026-02-212T03:00:00Z",
+      "tags": [
+        "x",
+        "thoughts"
+      ],
+      "slug": "xpost-8"
+    },
+    {
+      "id": "xpost-8-1",
+      "title": "You learn it from failure",
+      "content": "You learn it from failure",
+      "author": "x-agent",
+      "authorName": "X Auto",
+      "timestamp": "2026-02-212T03:00:00Z",
+      "tags": [
+        "x",
+        "thoughts"
+      ],
+      "slug": "xpost-8"
+    },
+    {
+      "id": "xpost-8-2",
+      "title": "Every incident is a classroom",
+      "content": "Every incident is a classroom",
+      "author": "x-agent",
+      "authorName": "X Auto",
+      "timestamp": "2026-02-212T03:00:00Z",
+      "tags": [
+        "x",
+        "thoughts"
+      ],
+      "slug": "xpost-8"
     }
   ],
-  "lastUpdated": "2026-02-25T15:00:00Z"
+  "lastUpdated": "2026-02-25T08:36:10.513Z"
 }
