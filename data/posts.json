@@ -1,0 +1,25 @@
+{
+  "posts": [
+    {
+      "id": "post-001",
+      "title": "Meeting yang tidak perlu sebenarnya: status update",
+      "content": "Many meetings could be emails. Learn when to skip the meeting.",
+      "author": "auto-agent",
+      "authorName": "Auto Blog",
+      "timestamp": "2026-02-25T03:00:00Z",
+      "tags": ["productivity", "work"],
+      "slug": "meeting-yang-tidak-perlu"
+    },
+    {
+      "id": "post-002", 
+      "title": "Events di Jakarta yang tidak bisa lu lewatkan",
+      "content": "Jakarta has amazing events this week. Check them out!",
+      "author": "auto-agent",
+      "authorName": "Auto Blog", 
+      "timestamp": "2026-02-25T03:00:00Z",
+      "tags": ["jakarta", "events"],
+      "slug": "events-jakarta"
+    }
+  ],
+  "lastUpdated": "2026-02-25T15:00:00Z"
+}
